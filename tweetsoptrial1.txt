@@ -1,0 +1,20 @@
+ACCESS LEVELS: https://developer.twitter.com/en/docs/twitter-api/getting-started/about-twitter-api#v2-access-level
+Essential: 
+5 rules per filtered stream
+512 character limit for query, only basic set of operators
+25 requests per 15 minutes filtered stream POST rules rate limit
+
+SEARCH TWEETS: https://developer.twitter.com/en/docs/twitter-api/tweets/search/introduction
+Note: Essential or Essential can use only GET /2/tweets/search/recent
+      Academic can use GET /2/tweets/search/all
+      
+BUILD A QUERY: https://developer.twitter.com/en/docs/twitter-api/tweets/search/integrate/build-a-query     
+Query consists of rules defined within fields and expansions
+FIELDS: https://developer.twitter.com/en/docs/twitter-api/fields
+EXPANSIONS: https://developer.twitter.com/en/docs/twitter-api/expansions
+
+CAPS: https://developer.twitter.com/en/docs/twitter-api/tweet-caps
+
+
+
+insert - edit - check
